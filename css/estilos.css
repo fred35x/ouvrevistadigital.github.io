@@ -12,7 +12,7 @@
             overflow-x: hidden;
         }
         header {
-            bbackground: linear-gradient(135deg, #FF0000 10%, #808080 100%);
+            background: linear-gradient(135deg, #FF0000 10%, #808080 100%);
             color: white;
             padding: 4rem 0 2rem;
             text-align: center;
@@ -280,3 +280,4 @@
             }
 
         }
+
